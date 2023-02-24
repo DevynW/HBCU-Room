@@ -8,11 +8,11 @@ Dr. Volcy's website for the hbcu room that we're building in unity.
 ## [Morehouse School of Medicine](https://www.msm.edu/about_us/)
 ### Morehouse School of Medicine (MSM) is a private, not-for-profit medical school located in Atlanta, Georgia. Established in 1975, MSM is dedicated to providing high-quality medical education and research, with a focus on improving healthcare outcomes for underserved communities. The school is affiliated with Grady Memorial Hospital, one of the largest public hospitals in the Southeast. MSM offers degree programs in medicine, public health, biomedical sciences, and graduate medical education. The school is committed to diversity and inclusivity, with a student body that represents a variety of ethnic and cultural backgrounds.As a leading medical school, MSM has received numerous accolades and recognitions, including being ranked among the top medical schools for primary care by U.S. News & World Report. The school's commitment to providing high-quality medical education and advancing medical research makes it a vital institution in the United States.
 ## [Clark Atlanta University](https://www.cau.edu/about/)
-###
-## [Morris Brown College]
-###
-## Interdenominational Theological Center
-###
+### Clark Atlanta University (CAU) is a private, historically black university located in Atlanta, Georgia. The university was formed in 1988 by the merger of two institutions, Atlanta University (founded in 1865) and Clark College (founded in 1869). CAU has a strong tradition of producing successful alumni, including civil rights leader Dr. Martin Luther King Jr., filmmaker Tyler Perry, and former U.S. Surgeon General Dr. David Satcher. The university's commitment to academic excellence, social justice, and community service makes it a vital institution in the United States.
+## [Morris Brown College](https://morrisbrown.edu/mission-vision/)
+### Morris Brown College is a private, historically black college located in Atlanta, Georgia. It was founded in 1881 by the African Methodist Episcopal Church and is named after Bishop Morris Brown, a founder of the church. The college is committed to providing a supportive and inclusive learning environment for its students, with a focus on developing their academic and leadership skills. Morris Brown College remains an important institution in the United States, providing access to higher education for underserved communities and producing leaders who make a positive impact in their communities and beyond.
+## [Interdenominational Theological Center](https://www.itc.edu/about/)
+### The Interdenominational Theological Center (ITC) is a Christian seminary located in Atlanta, Georgia. Established in 1958, it is a consortium of several historically black denominational seminaries, including the Morehouse School of Religion, the Gammon Theological Seminary, and the Turner Theological Seminary. The center offers degree programs in divinity, religious studies, and Christian education. The ITC is committed to promoting social justice and advancing theological education, research, and scholarship. Its alumni include prominent religious leaders, theologians, and scholars who have made significant contributions to their communities and society as a whole.
 ## Fort Valley State University
 ###
 ## Paine College
